@@ -1,0 +1,38 @@
+body{
+    background-color: #b6b4b4;
+}
+.main-drop{
+    height: auto;
+    width: 600px;
+    border: 0.5px solid #5c3f50;
+    background-color: black;
+    color: beige;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 20px; 
+}
+/* .qustion-part{
+    border: 2px solid red;
+} */
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.content{
+    /* display: flex; */
+    position: relative;
+} button{
+    height: 20px;
+    margin-top: 13px;
+    color: rgb(238, 75, 103);
+    background-color: black;
+    border: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
